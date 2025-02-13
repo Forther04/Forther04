@@ -71,7 +71,8 @@
     <td valign="top" style="border: none; width: 50%;">
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Forther04&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" style="width: 100%;"/><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Forther04&theme=tokyonight&hide_border=true" style="width: 100%;"/><br/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Forther04&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%;">
+<br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forther04&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" style="width: 100%;"/>
       </div>
     </td>
