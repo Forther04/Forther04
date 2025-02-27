@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">I'm Clark, a student coder from the Philippines<br><br>- 🔭 I’m working on my latest game<br>- 📚 I'm currently learning BCSC<br>- ⚡ In my free time I compose music</p>
+<p align="center">I'm Clark, a student coder from the Philippines<br><br>- 🔭 I’m working on my latest game<br>- 📚 I'm currently learning BSCS<br>- ⚡ In my free time I compose music</p>
 
 ###
 
